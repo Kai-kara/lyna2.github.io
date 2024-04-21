@@ -1,0 +1,553 @@
+body{
+    margin: 0 auto;
+    font-size: 20px;
+    padding: auto;
+}
+
+.links{
+    background: #211a2a;
+    padding: 3em;
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+    top: 0px;
+}
+
+.link{
+    width: 25em;
+    margin: auto;
+    padding: 20px;
+    border-radius: 2em;
+    box-shadow: inset 0 0 15px 0 #211a2a;
+}
+
+.link a{
+    font-size: 0.9em;
+    color: #fff;
+    margin-left: 30px;
+    padding: 0.2em;
+    border-radius: 0.2em;
+    box-shadow: inset 0 0 30px 0 #211a2a;
+}
+
+.link a:hover{
+    box-shadow: inset 0 0 100px 0 #211a2a;
+    text-decoration: none;
+}
+
+.link2{
+    width: 26em;
+    margin: auto;
+    background: none;
+    text-align: center;
+    padding: 0.5em;
+    border-radius: 8px;
+}
+
+.link2 a{
+    font-size: 17px;
+    color: white;
+    margin: auto;
+    padding: 0.2em;
+    border-radius: 30px;
+}
+
+.link2 a:hover{
+    text-decoration: none;
+}
+
+.links p{
+    position: absolute;
+    top: 1px;
+    margin: auto;
+    font-size: 40px;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    background: none;
+}
+
+.links img{
+    position: absolute;
+    top: 1px;
+    left: 10px;
+    height: 9em;
+    border-radius: 30px;
+}
+
+.container b{
+    text-shadow: 2px 2px 8px #000000;
+    font-weight: lighter;
+    font-family: 'Poppins',sans-serif;
+}
+
+.container h2{
+    font-size: 1.5em;
+    text-align: center;
+    color: #12aadd;
+    margin: auto;
+    width: auto;
+    text-shadow: 3px 3px 20px #fff;
+}
+
+.axcept{
+    float: left;
+    margin-top: 500px;
+}
+
+.footer{
+    background: #211a2a;
+    height: 200px;
+    margin: auto;
+    width: auto;
+}
+
+.gotop{
+    margin: auto;
+    color: #211a2a;
+    text-align: center;
+    font-size: 0.3em;
+}
+
+.tab{
+    border: 0;
+    outline: none;
+    color: #fff;
+    font-size: 1em;
+    margin: auto;
+    box-shadow: 2px 10px 10px #112233;
+}
+
+.tab img{
+    width: 6.5em;
+    border-radius: 0.2em;
+}
+
+.middle{
+    width: 30%;
+    margin: auto;
+}
+
+.middle a{
+    margin-right: 0.5em;
+    color: #fff;
+}
+
+.middle a:hover{
+    text-decoration: none;
+}
+
+.intro{
+    text-shadow: 2px 10px 10px #112233;
+    margin-top: -3em;
+    background: url("lyna12.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 20%;
+    width: 100%;
+}
+
+p video{
+    width: 3em;
+}
+
+.intro h2{
+    font-size: 1.5em;
+    font-weight: lighter;
+    color: #fff;
+}
+.intro h1{
+    font-size: 1.6em;
+    font-weight: lighter;
+    margin: auto;
+    color: #fff;
+}
+.intro p{
+    text-align: center;
+    color: #fff;
+    font-size: 3em;
+}
+
+.container2{
+    margin: auto;
+    text-align: center;
+}
+
+
+.container2 img{
+    border-radius: 0.1em;
+    margin: auto;
+    height: 12em;
+    scale: 1;
+}
+
+.image{
+    margin: auto;
+    width: 32em;
+    padding: 0.2em;
+    border-radius: 0.2em;
+    background: lemonchiffon;
+    text-align: center;
+}
+
+
+#kifana{
+    transition: 3s;
+    transition-duration: 5s;
+    transition-delay: 5s;
+    transition-property: all;
+}
+
+.footer2{
+    background: #211a2a;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.video{
+    margin: auto;
+    width: 32em;
+    padding: 0.3em;
+    border-radius: 0.2em;
+    background: lemonchiffon;
+    text-align: center;
+}
+
+.video2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+    padding: 30px;
+    border-radius: 30px;
+    background: lemonchiffon;
+    text-align: center;
+}
+
+video{
+    width: 10em;
+    border-radius: 0.1em;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #211a2a;
+}
+
+.infom{
+    background-image: linear-gradient(to top, red, blue, black);
+    padding: 0.3em;
+    margin: auto;
+    border-radius: 0.2em;
+    width: 50vw;
+}
+
+.infom img{
+    width: 6em;
+    border-radius: 0.3em;
+    border: 0.1em solid #fff;
+}
+
+.infom p{
+    font-size: 1.1em;
+    color: #fff;
+}
+
+
+.pora{
+    float: left;
+    width: auto;
+    margin: auto;
+}
+
+.show{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.show img{
+    width: 6em;
+}
+
+.adding{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+}
+
+.adding label{
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 5px;
+    background: orange;
+    box-shadow: inset 0 0 30px 0 black;
+    cursor: pointer;
+}
+
+.adding label:hover{
+    border: 5px solid;
+    border-radius: 30px;
+    padding: 5px;
+    background: none;
+    box-shadow: inset 0 0 100px 0 black;
+}
+
+.edit{
+    background: lemonchiffon;
+    border-radius: 0.2em;
+    margin-top: 2em;
+    margin: auto;
+    width: 95vh;
+    padding: 0.2em;
+}
+
+.edit img{
+    padding-left: 0.8em;
+    height: 12em;
+    border-radius: 0.2em;
+}
+
+.inserted{
+    width: 400px;
+    background: noe;
+    border: 2px solid;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+.adding button{
+    visibility: collapse;
+}
+
+.shi{
+    width: 10em;
+}
+.top{
+    visibility: collapse;
+}
+
+@media only screen and (max-width: 724px) {
+    body{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .intro{
+        background-position: -150px 20%;
+    } 
+
+    .tab{
+        padding: 0em;
+    }
+
+    .tab img{
+        width: 4.4em;
+    }
+
+    .container h2{
+        font-size: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+        padding: 15px;
+        border-radius: 60px;
+    }
+    .container2 h2{
+        font-size: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+        padding: 15px;
+        border-radius: 60px;
+    }
+    
+    .link2{
+        width: 10em;
+        margin: 0.5em -0em auto;
+        padding: 0.5em;
+        display: flex;
+        flex-direction: row;
+    }
+    .link2 a{
+        font-size: 0.7em;
+        color: white;
+        margin: auto;
+        margin-left: 4em;
+        width: 0.2em;
+    }
+    .link a{
+        font-size: 0.7em;
+        color: white;
+        margin: auto;
+        margin-right: 3em;
+        width: 0.1em;
+    }
+    .link{
+        width: 10em;
+        margin: 0.5em -0em auto;
+        padding: 0.5em;
+        display: flex;
+        flex-direction: row;
+    }
+    .links p{
+        width: 9em;
+    }
+    .links img{
+        height: 5em;
+        margin: 3em auto;
+        border-radius: 0.2em;
+    }
+    .gotop{
+        margin: auto;
+        font-size: 2em;
+        font-weight: lighter;
+    }
+    .image{
+        margin: auto;
+        width: auto;
+        padding: 0.2em;
+        border-radius: 0.2em;
+        background: lemonchiffon;
+        text-align: center;
+    }
+    .image img{
+        height: 10em;
+    }
+    .video{
+        width: 300px;
+    }
+    .video video{
+        width: 300px;
+    }
+    .video2{
+        width: 300px;
+    }
+    .video2 video{
+        width: 300px;
+    }
+    .edit{
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    .edit marquee{
+        font-family: 'Poppins',sans-serif;
+        color: #211a2a;
+    }
+    .edit img{
+        margin: auto;
+        height: 40vh;
+        width: 20vh;
+    }
+    #queued_image{
+        width: 300px;
+    }
+    .infom{
+        background-image: linear-gradient(to top, red, blue, black);
+        padding: 0.2em;
+        margin: auto;
+        border-radius: 0.2em;
+        width: auto;
+    }
+    .inform h2{
+        width: 20px;
+    }
+
+    .top{
+        color: #000000;
+        visibility: visible;
+    }
+    
+    .lina{
+        width: 200px;
+        border: 2px solid blue;
+    }
+}
+
+@media only screen and (max-width: 280px){
+    .link2{
+        font-size: 1.15em;
+        width: 10em;
+        margin: auto 2em;
+        text-align: center;
+        padding: 0.1em;
+        border-radius: 30px;
+        display: flex;
+        flex-direction: row;
+    }
+    .link2 a{
+        font-size: 0.6em;
+        color: white;
+        margin: auto;
+        margin-right: 6em;
+        margin-left: -2em;
+        width: 0.2em;
+        text-align: center;
+        border-radius: 0.2em;
+    }
+
+    .video{
+        margin: auto;
+        width: 12em;
+        padding: 0.1em;
+        border-radius: 0.1em;
+        background: lemonchiffon;
+        text-align: center;
+    }
+
+    video{
+        width: 2em;
+        border-radius: 0.1em;
+    }
+
+    .tab{
+        padding: 0em;
+    }
+
+    .tab img{
+        width: 2.5em;
+    }
+
+    .links p{
+        width: auto     ;
+        margin: auto;
+        font-size: 1em;
+    }
+    .links{
+        width: auto;
+    }
+    .link a{
+        font-size: 0.7em;
+        color: white;
+        margin: -0.5em -0.3 auto;
+        width: 0.1em;
+    }
+    
+    .link{
+        width: 10em;
+        margin: 0.5em 0.5em auto;
+        padding: 0.5em;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .links img{
+        margin-top: -1em;
+        margin-left: -0.5em;
+        height: 5em;
+        
+        border-radius: 0.2em;
+    }
+    .top{
+        color: #000000;
+        visibility: visible;
+    }
+}
+
